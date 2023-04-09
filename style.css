@@ -220,6 +220,9 @@ h2{
 }
 
 /* Section 2 */
+.sec2-wrap{
+    padding-top: 10vh;
+}
 
 .sec2-cont{
     padding: 50px;
